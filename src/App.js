@@ -38,7 +38,7 @@ function App() {
 
     return (
         <div className="ui container " style={{ marginTop: 50 }}>
-            <h2 className="ui header">Macro Time Calculator</h2>
+            <h2 className="ui header">FFXIV Macro Time Calculator</h2>
             <div class="ui divider"></div>
             <div class="ui grid">
                 <div class="ten wide column">
